@@ -1,6 +1,6 @@
 # Blender-N-Body-Simulation-Plugin
 A plugin for Blender 2.79 that allows you to create and animate N-body simulations.  
-Some example simulations are included in the Example Simulations folder. These can be opened and viewed using any version of [https://www.blender.org/](Blender).  
+Some example simulations are included in the Example Simulations folder. These can be opened and viewed using any version of [Blender](https://www.blender.org/).  
 This is a project I made for CodeDay 2019.
 ## Simulation
 The simulation uses Newtonian gravity. The simulation automatically determines and simulates from the reference frame of the center of mass. The simulation is not live - it is calculated and then saved for you to view. The program simulates the system for the given number of timesteps, and keyframes the bodies at each step. This creates an animation which you can rewatch and save. This animation can be overridden if you want to redo the simulation.
